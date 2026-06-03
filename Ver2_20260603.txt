@@ -1,0 +1,4 @@
+Ver2 
+Since 2026/6/3
+Vscode+Typora的方式来记录
+将文件夹都拆散开，分几个大类，PCB,C,Python,STM32,ESP32,Linux,Clutter

@@ -1,0 +1,180 @@
+# ======================================================
+# 嵌入式个人代码库 · 通用忽略配置
+# 原则：宁可臃肿，避免误提交
+# ======================================================
+
+# --- 操作系统自动生成文件 ---
+Thumbs.db
+.DS_Store
+Desktop.ini
+*:Zone.Identifier
+*Zone.Identifier
+
+# --- Python 缓存及虚拟环境 ---
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# --- 编辑器 / IDE 通用临时文件 ---
+*.swp
+*.swo
+*~
+*.tmp
+~$*.md
+.vscode/                # 如果团队共用，可考虑提交 .vscode 配置，个人用建议忽略
+.idea/
+
+# --- 隐私与敏感配置 ---
+日记/私密-*.md
+*.env
+*.secret
+
+# ======================================================
+# 嵌入式固件输出格式（后缀忽略，通杀所有芯片）
+# ======================================================
+*.bin
+*.hex
+*.s19
+*.srec
+*.elf
+*.axf
+*.map
+*.lst
+*.out
+*.ko                    # Linux 内核模块
+*.mod.c
+*.mod
+*.dtb                   # 设备树二进制
+*.dtbo
+
+# ======================================================
+# 构建目录（通配符忽略，不用管具体名字）
+# ======================================================
+build/
+Build/
+Debug/
+Release/
+dist/
+output/
+out/
+obj/
+*.o
+*.obj
+*.d
+*.dep
+*.crf
+*.o.*
+.tmp_versions/
+Modules.symvers
+Module.symvers
+modules.order
+
+# ======================================================
+# 具体 IDE / 工具链残留（全量堆砌，互不干扰）
+# ======================================================
+
+# --- Keil MDK (Arm) ---
+*.uvguix.*
+*.uvoptx
+*.scvd
+*.iex
+*.tra
+*.build_log.htm
+JLinkLog.txt
+JLinkSettings.ini
+
+# --- IAR Embedded Workbench ---
+settings/
+*.ewd
+*.ewp
+*.ewt
+*.eww
+*.dep
+
+# --- STM32CubeIDE / Eclipse / MCUXpresso ---
+.settings/
+.project
+.cproject
+*.launch
+*.pydevproject
+.directory
+
+# --- CMake 生成物 ---
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# --- PlatformIO ---
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# --- Arduino ---
+build-*/
+*.bin
+*.hex
+
+# --- ESP-IDF ---
+build/
+sdkconfig
+sdkconfig.old
+*.pyc
+*.log
+managed_components/
+dependencies.lock
+.flash_encrypt/
+.spiffs.bin
+.fatfs.bin
+
+# --- Zephyr RTOS ---
+build/
+zephyr/
+outdir/
+*_deps/
+twister-out/
+
+# --- Make / Autotools ---
+*.la
+*.lo
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.sbr
+*.bsc
+*.idb
+*.pch
+
+# ======================================================
+# 调试与仿真文件
+# ======================================================
+*.vcd
+*.wlf
+*.sim
+*.wdb
+*.vpd
+*.vsim
+waveforms/
+*.wcfg
+*.trace
+*.log
+
+# ======================================================
+# 链接器脚本自动生成备份
+# ======================================================
+*.ld.auto
+*.ld.bak
