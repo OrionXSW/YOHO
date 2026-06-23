@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d4658cb8e917da7",
+        "id": "a0ff111025326c9f",
         "type": "tabs",
         "children": [
           {
-            "id": "e98784dfd370c957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/Note/Restart.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Restart"
-            }
-          },
-          {
-            "id": "e042768437e31afb",
+            "id": "3e1bfedef24cb6c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +22,7 @@
               "title": "电容_V1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,13 +132,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e042768437e31afb",
+  "active": "3e1bfedef24cb6c1",
   "lastOpenFiles": [
-    "PCB/电子器件/基础元件/电源网络.md",
-    "PCB/电子器件/基础元件/电阻_V1.md",
+    "Clutter/版本管理/GIT_Ver2.md",
     "PCB/电子器件/基础元件/电容_V1.md",
-    "PCB/电子器件/LDO.md",
+    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200500284.png",
+    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200439820.png",
+    "PCB/电子器件/基础元件/assets/电容_V1",
+    "PCB/电子器件/基础元件/assets",
+    "PCB/电子器件/基础元件/Q&A.md",
+    "PCB/电子器件/基础元件/Ref.md",
+    "PCB/电子器件/基础元件/MOS管_V1.md",
+    "PCB/电子器件/基础元件/电阻_V1.md",
+    "Clutter/编码方式.md",
+    "Clutter/Windows/清盘.md",
+    "Clutter/Windows/Win11右键菜单.md",
+    "Clutter/版本管理/git_beta.md",
     "C/Note/Restart.md",
+    "音响/Log.md",
+    "STM32/过程记录/流程.md",
+    "PCB/电子器件/基础元件/电源网络.md",
+    "PCB/电子器件/LDO.md",
     "PCB/电子器件/Type-C.md",
     "You Got C/June_W2_n_W3.md",
     "未命名 1.md",
@@ -164,9 +162,6 @@
     "PCB/电子器件/按键.md",
     "屏幕/打印串口信息教程.md",
     "屏幕/点屏.md",
-    "屏幕/信号接口顺序.md",
-    "代码阅读记录/overall.md",
-    "代码阅读记录/App_RegisterSystemCallBack.md",
-    "屏幕/闪屏原因.md"
+    "屏幕/信号接口顺序.md"
   ]
 }
