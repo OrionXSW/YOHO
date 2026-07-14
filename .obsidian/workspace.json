@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/电子器件/基础元件/电容_V1.md",
+                "file": "You Got C/July_W2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "电容_V1"
+              "title": "July_W2"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB/电子器件/基础元件/电容_V1.md",
+                "file": "Clutter/Windows/Everything.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "电容_V1 的大纲"
+              "title": "Everything 的大纲"
             }
           }
         ],
@@ -134,7 +134,37 @@
   },
   "active": "3e1bfedef24cb6c1",
   "lastOpenFiles": [
+    "STM32/组件/按键.md",
+    "You Got C/July_W2.md",
+    "STM32/组件",
+    "音响/Log.md",
+    "You Got C/June_W1.md",
+    "You Got C/June_W2_n_W3.md",
+    "STM32/过程记录/流程.md",
+    "RaspberryPi/环境搭建.md",
+    "Linux/使用记录.md",
+    "Linux/开箱使用.md",
+    "Linux/WSL_使用记录.md",
+    "RaspberryPi/未命名.md",
+    "Clutter/VKHEART/SW.md",
+    "Clutter/VKHEART",
     "Clutter/版本管理/GIT_Ver2.md",
+    "RaspberryPi",
+    "未命名.md",
+    "Clutter/Windows/Everything.md",
+    "Clutter/Windows/assets/Everything/file-20260701103531935.png",
+    "Clutter/Windows/assets/Everything/file-20260701103338636.png",
+    "Clutter/Windows/assets/Everything/file-20260701102047878.png",
+    "Clutter/Windows/assets/Everything/file-20260701102643171.png",
+    "Clutter/Windows/assets/Everything/file-20260701103146509.png",
+    "Clutter/Windows/assets/Everything",
+    "Clutter/Windows/assets",
+    "Clutter/Windows/Win11右键菜单.md",
+    "Clutter/Windows/清盘.md",
+    "Clutter/Windows/快捷键.md",
+    "Clutter/ToolsFlow/扫个盲先.md",
+    "Clutter/脚本/概念.md",
+    "Clutter/编辑器记录/SourceInsight/3.5/新建工程.md",
     "PCB/电子器件/基础元件/电容_V1.md",
     "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200500284.png",
     "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200439820.png",
@@ -143,25 +173,6 @@
     "PCB/电子器件/基础元件/Q&A.md",
     "PCB/电子器件/基础元件/Ref.md",
     "PCB/电子器件/基础元件/MOS管_V1.md",
-    "PCB/电子器件/基础元件/电阻_V1.md",
-    "Clutter/编码方式.md",
-    "Clutter/Windows/清盘.md",
-    "Clutter/Windows/Win11右键菜单.md",
-    "Clutter/版本管理/git_beta.md",
-    "C/Note/Restart.md",
-    "音响/Log.md",
-    "STM32/过程记录/流程.md",
-    "PCB/电子器件/基础元件/电源网络.md",
-    "PCB/电子器件/LDO.md",
-    "PCB/电子器件/Type-C.md",
-    "You Got C/June_W2_n_W3.md",
-    "未命名 1.md",
-    "PCB/电子器件/基础元件/运放.md",
-    "You Got C/June_W1.md",
-    "未命名.md",
-    "PCB/电子器件/按键.md",
-    "屏幕/打印串口信息教程.md",
-    "屏幕/点屏.md",
-    "屏幕/信号接口顺序.md"
+    "PCB/电子器件/基础元件/电阻_V1.md"
   ]
 }

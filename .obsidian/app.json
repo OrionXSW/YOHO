@@ -1,10 +1,17 @@
 {
   "showLineNumber": true,
-  "foldHeading": false,
+  "foldHeading": true,
   "spellcheck": false,
-  "openBehavior": "new",
+  "openBehavior": "",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "smartIndentList": false
 }
