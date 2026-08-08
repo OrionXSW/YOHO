@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/命令方块.md",
+                "file": "ShallWe/N1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "命令方块"
+              "title": "N1"
             }
           }
         ]
@@ -134,8 +134,20 @@
   },
   "active": "372e1a15c1757a19",
   "lastOpenFiles": [
+    "C/Note/Restart.md",
     "Linux/Temp/righthere.md",
+    "Linux/林纳斯.md",
+    "知道/Computer.md",
+    "Clutter/编辑器记录/SourceInsight/3.5/新建工程.md",
+    "Clutter/编辑器记录/SourceInsight/3.5/DocumentOptions.png",
+    "Clutter/编辑器记录/Vscode.md",
+    "Clutter/编辑器记录/SourceInsight/3.5/1.新建项目文件1.png",
+    "Clutter/版本管理/GIT_Ver2.md",
+    "未命名.md",
     "Linux/命令方块.md",
+    "知道",
+    "Clutter/Windows/Win11右键菜单.md",
+    "Linux/Vim.md",
     "Linux 1/Temp/righthere.md",
     "Linux 1/开箱使用.md",
     "Linux 1/WSL_使用记录.md",
@@ -143,7 +155,6 @@
     "Linux 1/Temp",
     "Linux 1",
     "Linux/开箱使用.md",
-    "Linux/Vim.md",
     "ShallWe/N1.md",
     "ShallWe",
     "Linux/WSL_使用记录.md",
@@ -155,27 +166,18 @@
     "You Got C/June_W2_n_W3.md",
     "You Got C/July_W2.md",
     "You Got C/July_W3.md",
-    "C/Note/Restart.md",
-    "Clutter/版本管理/GIT_Ver2.md",
-    "Clutter/编辑器记录/Vscode.md",
     "Clutter/ToolsFlow/扫个盲先.md",
     "Linux/使用记录.md",
     "Linux/Temp",
     "STM32/组件/按键.md",
     "STM32/组件",
-    "音响/Log.md",
-    "STM32/过程记录/流程.md",
-    "RaspberryPi/未命名.md",
-    "Clutter/VKHEART/SW.md",
     "Clutter/VKHEART",
     "RaspberryPi",
-    "未命名.md",
     "Clutter/Windows/assets/Everything/file-20260701103531935.png",
     "Clutter/Windows/assets/Everything/file-20260701103338636.png",
     "Clutter/Windows/assets/Everything/file-20260701102047878.png",
     "Clutter/Windows/assets/Everything/file-20260701102643171.png",
     "Clutter/Windows/assets/Everything/file-20260701103146509.png",
-    "Clutter/Windows/assets/Everything",
     "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200500284.png",
     "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200439820.png"
   ]
