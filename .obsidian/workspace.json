@@ -13,13 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/开箱使用.md",
+<<<<<<< HEAD
+                "file": "Clutter/Windows/Everything.md",
+=======
+                "file": "Linux/林纳斯.md",
+                "file": "Clutter/版本管理/GIT_Ver2.md",
+>>>>>>> 21ff3ee3256b8c7feee8844c07a7149c5f05c7df
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "开箱使用"
+<<<<<<< HEAD
+              "title": "Everything"
+=======
+              "title": "GIT_Ver2"
+              "title": "林纳斯"
+>>>>>>> 21ff3ee3256b8c7feee8844c07a7149c5f05c7df
             }
           }
         ]
@@ -111,13 +121,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/过程记录/流程.md",
+<<<<<<< HEAD
+                "file": "Clutter/Windows/清盘.md",
+=======
+                "file": "Clutter/Windows/Everything.md",
+                "file": "Linux/林纳斯.md",
+>>>>>>> 21ff3ee3256b8c7feee8844c07a7149c5f05c7df
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "流程 的大纲"
+              "title": "清盘 的大纲"
             }
           }
         ]
@@ -135,13 +150,50 @@
   },
   "active": "0b84df9cc9125e63",
   "lastOpenFiles": [
-    "Linux/Vim.md",
+    "Clutter/编辑器记录/SourceInsight/3.5/新建工程.md",
+    "Clutter/编辑器记录/SourceInsight/3.5/DocumentOptions.png",
+    "Clutter/Windows/清盘.md",
+    "Clutter/版本管理/GIT_Ver2.md",
+    "知道/Computer.md",
     "Linux/WSL_使用记录.md",
+    "ShallWe/N1.md",
+    "C/Note/Restart.md",
+    "Linux/Temp/righthere.md",
+    "Linux/林纳斯.md",
+    "Clutter/编辑器记录/Vscode.md",
+    "Clutter/编辑器记录/SourceInsight/3.5/1.新建项目文件1.png",
+    "未命名.md",
     "Linux/命令方块.md",
     "Linux/开箱使用.md",
     "Clutter/Windows/Win11右键菜单.md",
-    "Clutter/Windows/清盘.md",
-    "STM32/过程记录/流程.md",
-    "Linux/林纳斯.md"
+    "Linux/Vim.md",
+    "Linux 1/Temp/righthere.md",
+    "Linux 1/开箱使用.md",
+    "Linux 1/WSL_使用记录.md",
+    "Linux 1/Vim.md",
+    "Linux 1/Temp",
+    "Linux 1",
+    "Linux/开箱使用.md",
+    "ShallWe",
+    "RaspberryPi/环境搭建.md",
+    "RaspberryPi/assets/环境搭建/file-20260723102234107.png",
+    "RaspberryPi/assets/环境搭建",
+    "RaspberryPi/assets",
+    "You Got C/June_W1.md",
+    "You Got C/June_W2_n_W3.md",
+    "You Got C/July_W2.md",
+    "You Got C/July_W3.md",
+    "Clutter/ToolsFlow/扫个盲先.md",
+    "Linux/Temp",
+    "STM32/组件",
+    "Clutter/VKHEART",
+    "RaspberryPi",
+    "Clutter/Windows/assets/Everything/file-20260701103531935.png",
+    "Clutter/Windows/assets/Everything/file-20260701103338636.png",
+    "Clutter/Windows/assets/Everything/file-20260701102047878.png",
+    "Clutter/Windows/assets/Everything/file-20260701102643171.png",
+    "Clutter/Windows/assets/Everything/file-20260701103146509.png",
+    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200500284.png",
+    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200439820.png"
   ]
 }

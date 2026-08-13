@@ -274,10 +274,10 @@ g  - 跳转到第一行	    G       - 跳转到最后一行
 
 ## 范围:工作区-暂存区-本地仓库
 ### 改动仅在「工作区」（未 add、未 commit）
-| 操作意图 | 命令 | 说明 |
-| :--- | :--- | :--- |
+| 操作意图      | 命令                                                     | 说明                      |
+| :-------- | :----------------------------------------------------- | :---------------------- |
 | 丢弃单个文件的修改 | `git restore <file>` <br> 旧写法：`git checkout -- <file>` | 文件恢复到最近一次 commit 或暂存区状态 |
-| 丢弃工作区所有修改 | `git restore .` <br> 旧写法：`git checkout .` | 工作区恢复干净，**不删除**新建的未跟踪文件 |
+| 丢弃工作区所有修改 | `git restore .` <br> 旧写法：`git checkout .`              | 工作区恢复干净，**不删除**新建的未跟踪文件 |
 | 删除未跟踪的文件/目录 | `git clean -fd` | `-f` 强制，`-d` 目录。**⚠️ 不可恢复** |
 ---
 ### 改动已进入「暂存区」（已 `git add`，未 commit）
@@ -399,6 +399,24 @@ git branch -vv
 * main b6b7697 [gitee/main] routine updates
 这表示当前默认上级分支是以gitee为远程仓库别名的远程仓库的main分支
 ```
+
+## 4
+远程平台和本地之前通过SSH链接，但发现推送失败
+```
+$ git add .;git commit -m "update: 常规更新，不知道更新了个啥";git push
+[main e43f5de] update: 常规更新，不知道更新了个啥
+ 5 files changed, 105 insertions(+), 13 deletions(-)
+ create mode 100644 "Linux/\346\236\227\347\272\263\346\226\257.md"
+ create mode 100644 "\347\237\245\351\201\223/Computer.md"
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+然后试下ssh -T git@github.com，测试下用ssh能不能连通github,发现能正常访问，重新推了一次，正常了
+原因大概是因为网络不稳定
+
 
 # 想不想知道
 Q.将带有.git的文件夹整体复制到别处并命名为A,此时这个A是不是不用初始化仓库并带有以往的历史记录和分支？毕竟带上.git了
