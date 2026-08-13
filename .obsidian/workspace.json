@@ -13,13 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Clutter/Windows/Everything.md",
+=======
+                "file": "Linux/林纳斯.md",
+                "file": "Clutter/版本管理/GIT_Ver2.md",
+>>>>>>> 21ff3ee3256b8c7feee8844c07a7149c5f05c7df
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Everything"
+=======
+              "title": "GIT_Ver2"
+              "title": "林纳斯"
+>>>>>>> 21ff3ee3256b8c7feee8844c07a7149c5f05c7df
             }
           }
         ]
@@ -109,7 +119,12 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Clutter/Windows/清盘.md",
+=======
+                "file": "Clutter/Windows/Everything.md",
+                "file": "Linux/林纳斯.md",
+>>>>>>> 21ff3ee3256b8c7feee8844c07a7149c5f05c7df
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -149,6 +164,16 @@
     "未命名.md",
     "Linux/命令方块.md",
     "知道",
+    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200500284.png",
+    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200439820.png",
+    "PCB/电子器件/基础元件/assets/电容_V1",
+    "PCB/电子器件/基础元件/assets",
+    "PCB/电子器件/基础元件/Q&A.md",
+    "PCB/电子器件/基础元件/Ref.md",
+    "PCB/电子器件/基础元件/MOS管_V1.md",
+    "PCB/电子器件/基础元件/电阻_V1.md",
+    "Clutter/编码方式.md",
+    "Clutter/Windows/清盘.md",
     "Clutter/Windows/Win11右键菜单.md",
     "Linux/Vim.md",
     "Linux 1/Temp/righthere.md",
