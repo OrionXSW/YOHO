@@ -1,27 +1,25 @@
 {
   "main": {
-    "id": "a04d076264cd31c5",
+    "id": "9b91b92b2500d8bc",
     "type": "split",
     "children": [
       {
-        "id": "7de41275d7585b9c",
+        "id": "a26a60d9a1949401",
         "type": "tabs",
         "children": [
           {
-            "id": "acddff49a6aefe0b",
+            "id": "0b84df9cc9125e63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/林纳斯.md",
-                "file": "Clutter/版本管理/GIT_Ver2.md",
+                "file": "Linux/开箱使用.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GIT_Ver2"
-              "title": "林纳斯"
+              "title": "开箱使用"
             }
           }
         ]
@@ -30,28 +28,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9ce84c002ed7a799",
+    "id": "c2313fcc5b55b6f8",
     "type": "split",
     "children": [
       {
-        "id": "9d9264c1d906e35d",
+        "id": "8d69ff81cc8a7cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "3d3f4e4f91119912",
+            "id": "bc0a673ed3e90438",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "4479bc890fc9d6b8",
+            "id": "d83574faa4f45f8e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "af032d251f1796a6",
+            "id": "20e1eea3e42e3e35",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "107b197974102f78",
+    "id": "1d0b63429e34a034",
     "type": "split",
     "children": [
       {
-        "id": "9c8f335e94ae24cc",
+        "id": "3fa585dc09f50bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "33a0123242177aeb",
+            "id": "7238bcf38c1c9b67",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -107,23 +106,21 @@
             }
           },
           {
-            "id": "44bd21bdd38d5c1c",
+            "id": "fd65d786932c30bd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clutter/Windows/Everything.md",
-                "file": "Linux/林纳斯.md",
+                "file": "STM32/过程记录/流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Everything 的大纲"
+              "title": "流程 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,63 +133,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "acddff49a6aefe0b",
+  "active": "0b84df9cc9125e63",
   "lastOpenFiles": [
-    "知道/Computer.md",
-    "Linux/WSL_使用记录.md",
-    "ShallWe/N1.md",
-    "C/Note/Restart.md",
-    "Linux/Temp/righthere.md",
-    "Linux/林纳斯.md",
-    "Clutter/编辑器记录/SourceInsight/3.5/新建工程.md",
-    "Clutter/编辑器记录/SourceInsight/3.5/DocumentOptions.png",
-    "Clutter/编辑器记录/Vscode.md",
-    "Clutter/编辑器记录/SourceInsight/3.5/1.新建项目文件1.png",
-    "Clutter/版本管理/GIT_Ver2.md",
-    "未命名.md",
-    "Linux/命令方块.md",
-    "知道",
-    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200500284.png",
-    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200439820.png",
-    "PCB/电子器件/基础元件/assets/电容_V1",
-    "PCB/电子器件/基础元件/assets",
-    "PCB/电子器件/基础元件/Q&A.md",
-    "PCB/电子器件/基础元件/Ref.md",
-    "PCB/电子器件/基础元件/MOS管_V1.md",
-    "PCB/电子器件/基础元件/电阻_V1.md",
-    "Clutter/编码方式.md",
-    "Clutter/Windows/清盘.md",
-    "Clutter/Windows/Win11右键菜单.md",
     "Linux/Vim.md",
-    "Linux 1/Temp/righthere.md",
-    "Linux 1/开箱使用.md",
-    "Linux 1/WSL_使用记录.md",
-    "Linux 1/Vim.md",
-    "Linux 1/Temp",
-    "Linux 1",
+    "Linux/WSL_使用记录.md",
+    "Linux/命令方块.md",
     "Linux/开箱使用.md",
-    "ShallWe",
-    "RaspberryPi/环境搭建.md",
-    "RaspberryPi/assets/环境搭建/file-20260723102234107.png",
-    "RaspberryPi/assets/环境搭建",
-    "RaspberryPi/assets",
-    "You Got C/June_W1.md",
-    "You Got C/June_W2_n_W3.md",
-    "You Got C/July_W2.md",
-    "You Got C/July_W3.md",
-    "Clutter/ToolsFlow/扫个盲先.md",
-    "Linux/使用记录.md",
-    "Linux/Temp",
-    "STM32/组件/按键.md",
-    "STM32/组件",
-    "Clutter/VKHEART",
-    "RaspberryPi",
-    "Clutter/Windows/assets/Everything/file-20260701103531935.png",
-    "Clutter/Windows/assets/Everything/file-20260701103338636.png",
-    "Clutter/Windows/assets/Everything/file-20260701102047878.png",
-    "Clutter/Windows/assets/Everything/file-20260701102643171.png",
-    "Clutter/Windows/assets/Everything/file-20260701103146509.png",
-    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200500284.png",
-    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200439820.png"
+    "Clutter/Windows/Win11右键菜单.md",
+    "Clutter/Windows/清盘.md",
+    "STM32/过程记录/流程.md",
+    "Linux/林纳斯.md"
   ]
 }
