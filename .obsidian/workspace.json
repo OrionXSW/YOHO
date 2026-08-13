@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clutter/版本管理/GIT_Ver2.md",
+                "file": "Clutter/Windows/Everything.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GIT_Ver2"
+              "title": "Everything"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "107b197974102f78",
@@ -110,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clutter/Windows/Everything.md",
+                "file": "Clutter/Windows/清盘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Everything 的大纲"
+              "title": "清盘 的大纲"
             }
           }
         ],
@@ -135,17 +134,18 @@
   },
   "active": "acddff49a6aefe0b",
   "lastOpenFiles": [
+    "Clutter/编辑器记录/SourceInsight/3.5/新建工程.md",
+    "Clutter/编辑器记录/SourceInsight/3.5/DocumentOptions.png",
+    "Clutter/Windows/清盘.md",
+    "Clutter/版本管理/GIT_Ver2.md",
     "知道/Computer.md",
     "Linux/WSL_使用记录.md",
     "ShallWe/N1.md",
     "C/Note/Restart.md",
     "Linux/Temp/righthere.md",
     "Linux/林纳斯.md",
-    "Clutter/编辑器记录/SourceInsight/3.5/新建工程.md",
-    "Clutter/编辑器记录/SourceInsight/3.5/DocumentOptions.png",
     "Clutter/编辑器记录/Vscode.md",
     "Clutter/编辑器记录/SourceInsight/3.5/1.新建项目文件1.png",
-    "Clutter/版本管理/GIT_Ver2.md",
     "未命名.md",
     "Linux/命令方块.md",
     "知道",
@@ -168,9 +168,7 @@
     "You Got C/July_W2.md",
     "You Got C/July_W3.md",
     "Clutter/ToolsFlow/扫个盲先.md",
-    "Linux/使用记录.md",
     "Linux/Temp",
-    "STM32/组件/按键.md",
     "STM32/组件",
     "Clutter/VKHEART",
     "RaspberryPi",
