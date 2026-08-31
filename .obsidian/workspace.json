@@ -1,52 +1,58 @@
 {
   "main": {
-    "id": "9b91b92b2500d8bc",
+    "id": "61f8e3ab74041063",
     "type": "split",
     "children": [
       {
-        "id": "a26a60d9a1949401",
+        "id": "ca8b8d2ff801ee0a",
         "type": "tabs",
         "children": [
           {
-            "id": "0b84df9cc9125e63",
+            "id": "4ed28323b5cc5337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Clutter/Windows/Everything.md",
-=======
-                "file": "Linux/林纳斯.md",
                 "file": "Clutter/版本管理/GIT_Ver2.md",
->>>>>>> 21ff3ee3256b8c7feee8844c07a7149c5f05c7df
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Everything"
-=======
               "title": "GIT_Ver2"
-              "title": "林纳斯"
->>>>>>> 21ff3ee3256b8c7feee8844c07a7149c5f05c7df
+            }
+          },
+          {
+            "id": "112b08d38debe7ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clutter/编辑器记录/SourceInsight3.5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SourceInsight3.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c2313fcc5b55b6f8",
+    "id": "e2e26ed5602347b7",
     "type": "split",
     "children": [
       {
-        "id": "8d69ff81cc8a7cc8",
+        "id": "c8085b1faf55e665",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0a673ed3e90438",
+            "id": "1659a9e9651812fc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,12 +67,12 @@
             }
           },
           {
-            "id": "d83574faa4f45f8e",
+            "id": "02333d4784beaa11",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,11 +84,14 @@
             }
           },
           {
-            "id": "20e1eea3e42e3e35",
+            "id": "bc21d512c021f49a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
             }
@@ -94,15 +103,15 @@
     "width": 300
   },
   "right": {
-    "id": "1d0b63429e34a034",
+    "id": "482adf6b12f72727",
     "type": "split",
     "children": [
       {
-        "id": "3fa585dc09f50bdd",
+        "id": "be56e0327a4ff604",
         "type": "tabs",
         "children": [
           {
-            "id": "7238bcf38c1c9b67",
+            "id": "5eaeeb7f67dd3885",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -116,31 +125,26 @@
             }
           },
           {
-            "id": "fd65d786932c30bd",
+            "id": "48a39d6ae8459f25",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Clutter/Windows/清盘.md",
-=======
-                "file": "Clutter/Windows/Everything.md",
-                "file": "Linux/林纳斯.md",
->>>>>>> 21ff3ee3256b8c7feee8844c07a7149c5f05c7df
+                "file": "Clutter/编辑器记录/SourceInsight3.5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "清盘 的大纲"
+              "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,52 +152,40 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0b84df9cc9125e63",
+  "active": "112b08d38debe7ad",
   "lastOpenFiles": [
-    "Clutter/编辑器记录/SourceInsight/3.5/新建工程.md",
-    "Clutter/编辑器记录/SourceInsight/3.5/DocumentOptions.png",
-    "Clutter/Windows/清盘.md",
-    "Clutter/版本管理/GIT_Ver2.md",
-    "知道/Computer.md",
-    "Linux/WSL_使用记录.md",
-    "ShallWe/N1.md",
-    "C/Note/Restart.md",
-    "Linux/Temp/righthere.md",
-    "Linux/林纳斯.md",
     "Clutter/编辑器记录/Vscode.md",
-    "Clutter/编辑器记录/SourceInsight/3.5/1.新建项目文件1.png",
-    "未命名.md",
-    "Linux/命令方块.md",
+    "Clutter/编辑器记录/SourceInsight3.5.md",
+    "Linux/WSL_使用记录.md",
     "Linux/开箱使用.md",
+    "Clutter/版本管理/GIT_Ver2.md",
     "Clutter/Windows/Win11右键菜单.md",
-    "Linux/Vim.md",
-    "Linux 1/Temp/righthere.md",
-    "Linux 1/开箱使用.md",
-    "Linux 1/WSL_使用记录.md",
-    "Linux 1/Vim.md",
-    "Linux 1/Temp",
-    "Linux 1",
-    "Linux/开箱使用.md",
-    "ShallWe",
-    "RaspberryPi/环境搭建.md",
-    "RaspberryPi/assets/环境搭建/file-20260723102234107.png",
-    "RaspberryPi/assets/环境搭建",
-    "RaspberryPi/assets",
-    "You Got C/June_W1.md",
-    "You Got C/June_W2_n_W3.md",
-    "You Got C/July_W2.md",
-    "You Got C/July_W3.md",
-    "Clutter/ToolsFlow/扫个盲先.md",
-    "Linux/Temp",
-    "STM32/组件",
-    "Clutter/VKHEART",
-    "RaspberryPi",
-    "Clutter/Windows/assets/Everything/file-20260701103531935.png",
-    "Clutter/Windows/assets/Everything/file-20260701103338636.png",
-    "Clutter/Windows/assets/Everything/file-20260701102047878.png",
-    "Clutter/Windows/assets/Everything/file-20260701102643171.png",
-    "Clutter/Windows/assets/Everything/file-20260701103146509.png",
-    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200500284.png",
-    "PCB/电子器件/基础元件/assets/电容_V1/file-20260623200439820.png"
+    "Clutter/Windows/Everything.md",
+    "Clutter/Windows/清盘.md",
+    "ShallWe/N1.md",
+    "PCB/电子器件/基础元件/电容_V1.md",
+    "PCB/电子器件/基础元件/电源网络.md",
+    "PCB/电子器件/基础元件/电阻_V1.md",
+    "PCB/电子器件/基础元件/运放.md",
+    "PCB/电子器件/基础元件/MOS管_V1.md",
+    "PCB/电子器件/基础元件/Q&A.md",
+    "PCB/电子器件/基础元件/whisper.md",
+    "PCB/电子器件/基础元件/Ref.md",
+    "Clutter/编辑器记录/assets/SourceInsight3.5/file-20260813142343569.png",
+    "Clutter/编辑器记录/assets/SourceInsight3.5/file-20260813141407457.png",
+    "Clutter/编辑器记录/assets/SourceInsight3.5/file-20260813140704178.png",
+    "Clutter/编辑器记录/assets/SourceInsight3.5/file-20260813135716221.png",
+    "Clutter/编辑器记录/assets/SourceInsight3.5/file-20260813135650839.png",
+    "Clutter/编辑器记录/assets/SourceInsight3.5/file-20260813114536200.png",
+    "Clutter/编辑器记录/assets/SourceInsight3.5",
+    "Clutter/编辑器记录/assets",
+    "Clutter/编辑器记录/assets/SourceInsight3.5/1.新建项目文件1.png",
+    "Clutter/编辑器记录/SourceInsight/3.5/新建工程.md",
+    "Clutter/编辑器记录/assets/SourceInsight3.5/DocumentOptions.png",
+    "Clutter/编辑器记录/assets/SourceInsight3.5/3.添加文件树1.png",
+    "Clutter/编辑器记录/assets/SourceInsight3.5/2.项目文件位置1.png",
+    "Clutter/编码方式.md",
+    "Relative_MCU/架构.md",
+    "Clutter/ToolsFlow/Markdown.md"
   ]
 }
